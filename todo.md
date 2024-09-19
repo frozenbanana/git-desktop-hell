@@ -1,4 +1,4 @@
-- Skapa index.html [ ]
-- Lägg till h1 till index.html [ ]
+- Skapa index.html [x]
+- Lägg till h1 till index.html [x]
 - Lägg till p till index.html [ ]
 - Lägg till img till index.html [ ]
